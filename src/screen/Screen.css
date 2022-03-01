@@ -1,0 +1,74 @@
+.MuiFilledInput-root {
+  height: 50px;
+  width: inherit;
+  padding: 7px;
+}
+.MuiOutlinedInput-root {
+  height: 25px !important;
+}
+.MuiFormControl-root {
+  width: 300px;
+}
+.exp .MuiOutlinedInput-root {
+  height: 30px;
+  width: 50px;
+}
+.MuiFilledInput-inputMarginDense {
+  padding-top: 13px !important;
+  padding-bottom: 16px !important;
+}
+.MuiFilledInput-input {
+  padding: unset !important;
+}
+.section8 .MuiInputBase-root {
+  height: 50px;
+  width: 180px;
+  padding-left: 10px;
+}
+.section7 {
+  width: 47%;
+}
+.MuiInputBase-root {
+  height: auto;
+}
+.MuiListItem-root,
+.MuiListItem-gutters,
+.MuiList-padding {
+  padding-left: unset !important;
+  padding-right: unset !important;
+  padding-top: unset !important;
+  padding-bottom: unset !important;
+}
+.S7 .MuiFormControl-root {
+  width: auto !important;
+}
+.S8 .MuiFormControl-root {
+  width: unset !important;
+}
+.MuiListItemText-root {
+  margin-bottom: unset !important;
+  margin-top: unset !important;
+}
+@media screen and (min-width: 768px) {
+  .section7 {
+    width: 47%;
+  }
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 425px) {
+  .R1,
+  .R2 {
+    transform: rotateZ(90deg);
+    left: 50%;
+    padding: 20;
+  }
+  .section7 {
+    width: unset;
+  }
+}
+@media screen and (max-width: 424px) {
+  .MuiInputBase-root {
+    width: fit-content;
+  }
+}

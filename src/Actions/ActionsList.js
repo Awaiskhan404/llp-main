@@ -1,0 +1,9 @@
+export const SECTION_1 = "SECTION_1";
+export const SECTION_2 = "SECTION_2";
+export const SECTION_3 = "SECTION_3";
+export const SECTION_4 = "SECTION_4";
+export const SECTION_5 = "SECTION_5";
+export const SECTION_6 = "SECTION_6";
+export const SECTION_7 = "SECTION_7";
+export const SECTION_8 = "SECTION_8";
+export const SECTION_9 = "SECTION_9";
